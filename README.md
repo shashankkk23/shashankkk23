@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN stack**
 
 - 📫 How to reach me **tiwarishashank937@gmail.com**
 
